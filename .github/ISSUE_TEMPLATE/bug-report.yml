@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in SRLE Studio doesn't work.
+description: Something in Stim Studio doesn't work.
 labels: ["bug"]
 body:
   - type: markdown

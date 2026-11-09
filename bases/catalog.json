@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-01",
+ "updated": "2026-11-09",
  "bases": [
   {
    "id": "keaton/sparta-extended",
@@ -13,6 +13,19 @@
    "sha1": "457bbe5f433ec2c2e8be8b21cc20256afb6043cf",
    "featured": true,
    "transcription": "transcriptions/keaton-sparta-extended.json"
+  },
+  {
+   "id": "wily-bit/lattahouse",
+   "name": "Lattahouse",
+   "maker": "Wily Bit",
+   "collection": "Requested bases",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/wily-bit-lattahouse.mp3",
+   "page": "https://github.com/1ajh/stim-studio/tree/main/bases/audio",
+   "size": 3292752,
+   "sha1": "03658506e8e69ad426c1f18705ecef98446fe863",
+   "featured": true,
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/wily-bit-lattahouse.flp",
+   "transcription": "transcriptions/wily-bit-lattahouse.json"
   },
   {
    "id": "flp-archive/enforch-sparta-announcement-base",

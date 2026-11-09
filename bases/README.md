@@ -13,6 +13,11 @@ When a maintainer labels such an issue `transcription-approved`, the
 `Add approved transcription` workflow checks the attached file and opens a
 pull request adding it here with the sender's credit.
 
-Anyone can make one in SRLE Studio: pick the base, fix its sections, hits or
+Anyone can make one in Stim Studio: pick the base, fix its sections, hits or
 drums, and press **Send your fixes**. A base's FL Studio project gives an exact
 transcription; one heard from the audio is a draft to check.
+
+`audio/` and `projects/` hold the few bases kept here (named `maker-base`):
+the render the app downloads and the FL Studio project its transcription was
+made from. They're credited to their makers in
+`catalog.json`, and aren't covered by this folder's license.

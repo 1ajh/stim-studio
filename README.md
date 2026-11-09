@@ -1,14 +1,14 @@
-<p align="center"><img src="https://raw.githubusercontent.com/1ajh/srle-studio/main/logo.png" width="96" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/1ajh/stim-studio/main/logo.png" width="96" alt=""></p>
 
-# SRLE Studio
+# Stim Studio
 
-Sparta remixes and logo-editing effects on your computer. Get it at **[srle.ajh.wtf](https://srle.ajh.wtf)**: the app needs a license key from there to unlock.
+Sparta remixes and logo-editing effects on your computer. Get it at **[stim.ajh.wtf](https://stim.ajh.wtf)**: the app needs a license key from there to unlock.
 
-This repository holds what SRLE Studio reads from the internet, in the open:
+This repository holds what Stim Studio reads from the internet, in the open:
 
-- **[Releases](https://github.com/1ajh/srle-studio/releases)**: the Windows, macOS and Linux downloads (they unlock with your key). The app checks here for updates.
+- **[Releases](https://github.com/1ajh/stim-studio/releases)**: the Windows, macOS and Linux downloads (they unlock with your key). The app checks here for updates.
 - **[`bases/`](bases)**: the Sparta base library the app searches (`catalog.json`: where each base is published and who made it) and checked transcriptions of bases (`transcriptions/`), which the app downloads so remixes follow those bases exactly.
-- **[Issues](https://github.com/1ajh/srle-studio/issues)**: bug reports, and fixed base transcriptions sent from the app.
+- **[Issues](https://github.com/1ajh/stim-studio/issues)**: bug reports, and fixed base transcriptions sent from the app.
 
 ## Sending a fixed base transcription
 
@@ -16,7 +16,7 @@ In the app, fix a base's sections, hits or drums, then press **Send your fixes**
 
 ## Reporting a bug
 
-Open an [issue](https://github.com/1ajh/srle-studio/issues/new/choose) with what you did, what happened and your system. No license keys in issues, please.
+Open an [issue](https://github.com/1ajh/stim-studio/issues/new/choose) with what you did, what happened and your system. No license keys in issues, please.
 
 ## Licenses
 
