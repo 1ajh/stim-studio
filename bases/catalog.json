@@ -1,17 +1,18 @@
 {
  "version": 1,
- "updated": "2026-11-09",
+ "updated": "2026-11-11",
  "bases": [
   {
    "id": "keaton/sparta-extended",
    "name": "Sparta Extended Remix (official instrumental base)",
-   "maker": "Keaton (Funtastic Power!)",
+   "maker": "KeatonKeaton999 (Funtastic Power!)",
    "collection": "Keaton's World",
    "audio": "https://keaton-world.com/content/music/2007/Funtastic_Power_-_300_This_is_Sparta_EXTENDED_instrumental_base.mp3",
    "page": "https://keaton-world.com/music.php",
    "size": 2142545,
    "sha1": "457bbe5f433ec2c2e8be8b21cc20256afb6043cf",
    "featured": true,
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/keaton-sparta-extended.flp",
    "transcription": "transcriptions/keaton-sparta-extended.json"
   },
   {
