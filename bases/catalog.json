@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-11",
+ "updated": "2026-11-15",
  "bases": [
   {
    "id": "keaton/sparta-extended",
@@ -27,6 +27,126 @@
    "featured": true,
    "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/wily-bit-lattahouse.flp",
    "transcription": "transcriptions/wily-bit-lattahouse.json"
+  },
+  {
+   "id": "jordan/central-jrde",
+   "name": "Sparta Central JRDE Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-central-jrde.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-central-jrde-base",
+   "size": 2180913,
+   "sha1": "a86f4e077d7ce6670a3af33aa5c6313b63aea631",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-central-jrde.flp",
+   "transcription": "transcriptions/jordan-central-jrde.json"
+  },
+  {
+   "id": "jordan/flying-egg",
+   "name": "Sparta Flying Egg Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-flying-egg.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-flying-egg-base",
+   "size": 1537252,
+   "sha1": "eb4d4c745668325427a977b2037e87f42a2034f0",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-flying-egg.flp",
+   "transcription": "transcriptions/jordan-flying-egg.json"
+  },
+  {
+   "id": "jordan/hellokat",
+   "name": "Sparta Hellokat Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-hellokat.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-hellokat-base",
+   "size": 785130,
+   "sha1": "012121accb9889f816bb81eeb7bda3fed158dcf2",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-hellokat.flp",
+   "transcription": "transcriptions/jordan-hellokat.json"
+  },
+  {
+   "id": "jordan/journal-jrde",
+   "name": "Sparta Journal JRDE Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-journal-jrde.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-journal-jrde-base",
+   "size": 3544082,
+   "sha1": "987d23de7a199cef6a656b16e7659868e02b6bbb",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-journal-jrde.flp",
+   "transcription": "transcriptions/jordan-journal-jrde.json"
+  },
+  {
+   "id": "jordan/star-jrde",
+   "name": "Sparta Star JRDE Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-star-jrde.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-star-jrde-base",
+   "size": 3542420,
+   "sha1": "a267d07fc4121d8660468a5e39454125f18f8256",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-star-jrde.flp",
+   "transcription": "transcriptions/jordan-star-jrde.json"
+  },
+  {
+   "id": "jordan/subgeo-jrde",
+   "name": "Sparta Subgeo JRDE Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-subgeo-jrde.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-subgeo-jrde-base",
+   "size": 2137024,
+   "sha1": "1865da8a015f4471a2bd331c1fb15b0b7ed58984",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-subgeo-jrde.flp",
+   "transcription": "transcriptions/jordan-subgeo-jrde.json"
+  },
+  {
+   "id": "jordan/subgeo-jrde-v1-5",
+   "name": "Sparta Subgeo JRDE V1.5 Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-subgeo-jrde-v1-5.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/fixed-sparta-subgeo-jrde-base",
+   "size": 3026458,
+   "sha1": "5ca5644dd67371c5035c0bd1022c8f67cdd3600e",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-subgeo-jrde-v1-5.flp",
+   "transcription": "transcriptions/jordan-subgeo-jrde-v1-5.json"
+  },
+  {
+   "id": "jordan/subgeo-jrde-v2",
+   "name": "Sparta Subgeo JRDE V2 Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-subgeo-jrde-v2.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-subgeo-jrde-v2-base",
+   "size": 2102751,
+   "sha1": "04cc376a91fbc860dc6f17e817ff4fe5f45a3b52",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-subgeo-jrde-v2.flp",
+   "transcription": "transcriptions/jordan-subgeo-jrde-v2.json"
+  },
+  {
+   "id": "jordan/topaz-jrde",
+   "name": "Sparta Topaz JRDE Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-topaz-jrde.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-topaz-jrde-base",
+   "size": 3058781,
+   "sha1": "bc6c5e2fa332ca4ca04ac54d6d7f1d21562a88e6",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-topaz-jrde.flp",
+   "transcription": "transcriptions/jordan-topaz-jrde.json"
+  },
+  {
+   "id": "jordan/upsilon-jrde-v2",
+   "name": "Sparta Upsilon JRDE V2 Base",
+   "maker": "JordanRemixer (greenbean)",
+   "collection": "JordanRemixer's project archive",
+   "audio": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/audio/jordan-upsilon-jrde-v2.mp3",
+   "page": "https://soundcloud.com/greenbeanainteventaken/sparta-upsilon-jrde-v2-base",
+   "size": 3739828,
+   "sha1": "62ee20758021d8ca20493a7cb409075cce39bab5",
+   "flp": "https://raw.githubusercontent.com/1ajh/stim-studio/main/bases/projects/jordan-upsilon-jrde-v2.flp",
+   "transcription": "transcriptions/jordan-upsilon-jrde-v2.json"
   },
   {
    "id": "flp-archive/enforch-sparta-announcement-base",
