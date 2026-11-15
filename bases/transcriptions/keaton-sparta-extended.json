@@ -14508,6 +14508,12 @@
   286.5,
   287.5
  ],
+ "drums": {
+  "crash": [
+   4.0,
+   95.0
+  ]
+ },
  "source": "curated",
  "credit": "Every pitch layer from the base's FL Studio project, checked against the audio, for Stim Studio",
  "confidence": 1.0
